@@ -1,0 +1,15 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 4945c394-dca5-d3d7-e81e-e9e7a99e5ae5
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 161c4d59-68a5-e9ee-5694-f388a48e59c4
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 91a6fb4f-bb4a-1d23-2879-9a37fb808eee
+  name: Video Presentations
+  pageRef: /video_galleries/video-presentations
+  weight: 30
